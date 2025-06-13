@@ -1,5 +1,8 @@
+THIS IS A FORKED VERSION FROM CARNYPROIEST fork !
+ONLY USE THIS WHEN YOU INSTALLED P-ROC TO C:\PINBALL\P-ROC VIA `P-ROC_Offline_Installer-v3.4_Mike customizedv2.ZIP`
+
 # CCCforVP
-Port of Cactus Canyon Continued to Visual Pinball
+Port of Cactus Canyon Continued to Visual Pinball 
 
 All original coding by epthegeek
 http://soldmy.org/pin/ccc/index.php?title=Main_Page
