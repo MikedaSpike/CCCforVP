@@ -1,8 +1,8 @@
 font_path:
-    - C:\P-ROC\shared\dmd\
+    - C:\Pinball\P-ROC\shared\dmd\
     - ./assets/dmd/
 config_path:
-    - C:\P-ROC\shared\config\
+    - C:\Pinball\P-ROC\shared\config\
 dmd_path: ./assets/dmd/
 sound_path: ./assets/sound/
 voice_dir: voice/ # i.e., this is assets/sound/voice/
@@ -15,7 +15,7 @@ pinproc_class: procgame.fakepinproc.FakePinPROC # comment out this line when usi
 use_desktop: True
 color_desktop: True
 
-vp_game_map_file: C:\P-ROC\shared\vp_game_map.yaml  # relevant for Visual Pinball (only) # Change this to where you create your map file
+vp_game_map_file: C:\Pinball\P-ROC\shared\vp_game_map.yaml  # relevant for Visual Pinball (only) # Change this to where you create your map file
 
 keyboard_switch_map:
     # Enter, Up, Down, Exit
